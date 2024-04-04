@@ -10,7 +10,7 @@ npm install @nightmaregaurav/observer.js
 ## Usage
 
 ```javascript
-import { EventScope } from 'observer-js';
+import { EventScope } from '@nightmaregaurav/observer.js';
 
 // Create an instance of EventScope
 const eventScope = new EventScope();
