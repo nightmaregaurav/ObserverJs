@@ -3,8 +3,9 @@
 ObserverJs is a lightweight JavaScript library that provides a simple and intuitive way to manage and execute event callbacks. It allows you to register event callbacks, execute them with before and after hooks, and trigger them together.
 
 ## Installation
-[Currently Unavailable]
-
+```bash
+npm install @nightmaregaurav/observer.js
+````
 
 ## Usage
 
