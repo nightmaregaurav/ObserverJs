@@ -1,6 +1,6 @@
 {
   "name": "@nightmaregaurav/observer.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ObserverJs is a lightweight JavaScript library that provides a simple and intuitive way to manage and execute event callbacks. It allows you to register event callbacks, execute them with before and after hooks, and trigger them together.",
   "scripts": {
     "compile": "tsc",
